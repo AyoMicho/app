@@ -1,0 +1,29 @@
+#container{
+    text-align: center;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    color: red;
+}
+
+
+#delegate {
+    display: flex;
+    justify-content: center;
+
+}
+ul{
+    
+    border: 2px solid white;
+    margin: 20px;
+    font-size: 2rem;
+    padding: 50px;
+    box-sizing: border-box;
+    
+}
+
